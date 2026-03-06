@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/main.qml</file>
+        <file>qml/components/FactCard.qml</file>
+    </qresource>
+</RCC>
